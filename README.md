@@ -33,19 +33,18 @@ other state-of-the-art methods
 
 ![intro](imgs/img_CAPD.png)
 
-Our code is based on pytorch.
 
 ## Usage
-
+Our code is based on pytorch.
 ### Requirements
 
 - torch>=1.8.0
 - torchvision
+- opencv-python
+- tensorboard
+- numpy
+- transformers
 
-
-
-## License
-MIT License
 
 ## Citation
-If you find our work useful in your research, please consider citing:
+This paper is under review.
